@@ -1,0 +1,14 @@
+{
+  "name": "homework-3",
+  "version": "1.0.0",
+  "description": "Methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "homework",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
